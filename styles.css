@@ -1,3 +1,9 @@
+.titulop {
+  text-align: center;
+  font-size: 32px;
+  color: gray;
+}
+
 div.mes {
   margin: 0 auto;
   width: 250px;
